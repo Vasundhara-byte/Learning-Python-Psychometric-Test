@@ -133,7 +133,7 @@ class MindMappingApp:
         self.thank_you_label.config(text="You have done well - Thank you very much.")
         
     def send_email(self, to_email, filename):
-        from_email = "arup.roy@vasundharaconsulting.com"
+        from_email = "admin@vasundharaconsulting.com"
         password = "########"
         
         # Setup the MIME
