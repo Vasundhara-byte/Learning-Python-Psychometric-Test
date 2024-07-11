@@ -134,7 +134,7 @@ class MindMappingApp:
         
     def send_email(self, to_email, filename):
         from_email = "arup.roy@vasundharaconsulting.com"
-        password = "Babli@3010"
+        password = "########"
         
         # Setup the MIME
         message = MIMEMultipart()
